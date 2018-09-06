@@ -1,4 +1,4 @@
-# ecmascript-enum
+# ECMAScript enum
 
 Naive and non-working art for ECMAScript enums
 
