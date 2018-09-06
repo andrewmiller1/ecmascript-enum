@@ -2,9 +2,9 @@
 
 Naive and non-working art for ECMAScript enums
 
-See https://github.com/isiahmeadows/enum-proposal
-See https://github.com/doug-wade/enum-polyfill
-See https://github.com/rbuckton/proposal-enum
+* See https://github.com/isiahmeadows/enum-proposal
+* See https://github.com/doug-wade/enum-polyfill
+* See https://github.com/rbuckton/proposal-enum
 
 
 From https://github.com/isiahmeadows/enum-proposal
